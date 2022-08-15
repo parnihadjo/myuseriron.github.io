@@ -1,0 +1,35 @@
+body {
+	margin:0;
+	padding: 0;
+}
+
+body {
+	background-color: #f5f5dc;
+}
+
+.content {
+display: 
+
+
+}
+
+
+.div {
+	 display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+	padding-bottom: 30px;
+}
+
+.kind, .sport, .book, .time, .values, .repost, .chains, .real, .misl, .psihology {
+	padding-bottom: 30px;
+}
+
+h2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
